@@ -4,4 +4,5 @@ public class Project_K {
 
     // some text here
     // some of me other comments
+    // Kirill wants  conflict!
 }
